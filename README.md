@@ -7,6 +7,7 @@
 🔧 Currently working on personal projects in fMRI, brain imaging, and functional connectivity
 
 🔹 Key Expertise:
+
 ✅ Python programming and ML frameworks (PyTorch, TensorFlow, Scikit-Learn)
 
 ✅ Machine Learning & Deep Learning (CNNs, Transformers, LLMs, etc.)
