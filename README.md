@@ -1,14 +1,14 @@
  👋 Hi there, I'm Aram
  
 ### 🎓 Lecturer in Applied Computer Science @ The Hague University of Applied Sciences (THUAS)
-### 🚀 Machine Learning Engineer | AI Systems & MLOps | Edge AI
+#### 🚀 Computer Engineer | Machine Learning Engineer | Embedded
 
 🔬I am a Machine Learning Engineer & Researcher with a strong computer engineering background. My experience spans academic research and industry projects, focusing on designing scalable ML and Deep Learning models that balance performance, efficiency, and real-world deployment constraints.
 Currently, I am a Lecturer in Applied Computer Science, where I design and teach courses in data science, cloud, and ML, while helping students build practical, industry-ready skills.
 
 Alongside teaching, I continue developing ML systems and AI applications, applying my LLM Engineering skills to design a AI product. 
 
-##🎓 Teaching & Academic Work
+## 🎓 Teaching & Academic Work
 
 - Designing and teaching courses in Applied Computer Science program.
 - Supervising student projects in:
