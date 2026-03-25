@@ -1,16 +1,30 @@
  👋 Hi there, I'm Aram
+ 
+### 🎓 Lecturer in Applied Computer Science @ The Hague University of Applied Sciences (THUAS)
+### 🚀 Machine Learning Engineer | AI Systems & MLOps | Edge AI
 
-🚀 Machine Learning Engineer | ML/AI Researcher | Edge AI & Deep Learning
+🔬I am a Machine Learning Engineer & Researcher with a strong computer engineering background. My experience spans academic research and industry projects, focusing on designing scalable ML and Deep Learning models that balance performance, efficiency, and real-world deployment constraints.
+Currently, I am a Lecturer in Applied Computer Science, where I design and teach courses in data science, cloud, and ML, while helping students build practical, industry-ready skills.
 
-🔬I am a Machine Learning Engineer & Researcher with a strong computer engineering background, specializing in ML model optimization for edge computing, deep learning, and computer vision. My experience spans academic research and industry projects, focusing on designing scalable ML and Deep Learning models that balance performance, efficiency, and real-world deployment constraints.
+Alongside teaching, I continue developing ML systems and AI applications, applying my LLM Engineering skills to design a AI product. 
 
-🔧 Currently working on personal projects in fMRI, brain imaging, and functional connectivity
+##🎓 Teaching & Academic Work
+
+- Designing and teaching courses in Applied Computer Science program.
+- Supervising student projects in:
+  
+Focus on:
+- Bridging theory → practice
+- Industry-relevant skills
+- Hands-on learning
 
 🔹 Key Expertise:
 
 ✅ Python programming and ML frameworks (PyTorch, TensorFlow, Scikit-Learn)
 
 ✅ Machine Learning & Deep Learning (CNNs, Transformers, LLMs, etc.)
+
+✅ LLM and Agentic AI (OpenAI API, RAG, LangChain)
 
 ✅ AI Optimization & Model Compression for Edge Devices (Nvidia Jetson, Embedded Systems)
 
@@ -20,7 +34,7 @@
 
 ✅ Software & Hardware Co-Design 
 
-🔬 Work & Research Experience:
+## 🔬 Work & Research Experience:
 
 - Senior AI Researcher at UvA – Optimized ML models for edge deployment, enhancing efficiency with self-adaptive transformers & Vision Transformers (ViT).
 
@@ -30,10 +44,10 @@
 
 ---
 
-### 🚀 Current Projects
-- 🧠 **Brain Connectivity Analysis**: Building ML models to analyze fMRI data
-- 📦 **Deep Learning with Medical Datasets**: Exploring CNNs, transformers, and self-supervised learning on real-world data
-- 🧰 **Edge AI & Hardware Systems**: Leveraging my FPGA and MCU experience to bring ML to constrained devices
+## 🚀 Current Interests
+- ⚙️ Academic course design for Computer Science program 
+- 🔗 LLMs, agents, and real-world AI applications
+- 🏗️ Teaching ML engineering in a production-first way
 
 ---
 
